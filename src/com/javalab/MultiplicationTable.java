@@ -9,6 +9,8 @@ public class MultiplicationTable {
 
 		System.out.println();
 		System.out.println();
+		// 세줄로
+		System.out.println();
 
 
 		System.out.println("구구단 세로 출력===========================================");
