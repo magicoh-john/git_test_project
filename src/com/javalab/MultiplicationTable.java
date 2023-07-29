@@ -8,6 +8,8 @@ public class MultiplicationTable {
 	public static void main(String[] args) {
 
 		System.out.println();
+		System.out.println();
+		System.out.println();
 		
 		System.out.println("구구단 세로 출력===========================================");
 		
