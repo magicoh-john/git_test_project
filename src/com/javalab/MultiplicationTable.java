@@ -9,8 +9,7 @@ public class MultiplicationTable {
 
 		System.out.println();
 		System.out.println();
-		System.out.println();
-		
+
 		System.out.println("구구단 세로 출력===========================================");
 		
 		for (int i = 2; i <= 9; i++) {
