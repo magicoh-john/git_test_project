@@ -1,6 +1,6 @@
 package com.javalab;
 /**
- * 구구단을 가로와 세로로 출력하는 예제
+ * 구구단을 가로와 세로로 출력하는 예제22222
  * @author magic
  *
  */
